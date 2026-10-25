@@ -1,3 +1,7 @@
+Primary deployed API: https://github-readme-stats-kappa-ruby.vercel.app/api?username=ali-aljufairi
+
+Additional deployments of this same repo: https://github-readme-stats-twi8.vercel.app and https://github-readme-stats-hunter.vercel.app (append `/api?username=ali-aljufairi`). Roots redirect upstream. SVG/API services are uptime-only; no visitor script is injected. Upstream usage and setup documentation is preserved below.
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
